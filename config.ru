@@ -1,3 +1,3 @@
-require_relative 'hrfb'
+require './hrfb'
 
 run Sinatra::Application
